@@ -8,6 +8,7 @@ The Pigeonhole Principle is an amazing problem-solving technique and we use it t
 
 Now think of a social network (e.g. Facebook) with 6 people, with each pair being connected (as friends) or not connected (as strangers). Then by the result from the Hexagon Colouring Game, we can make the following statement:
 In any group of six people, there must exist a set of three mutual friends or a set of three mutual strangers.
+See proof here: https://www.youtube.com/watch?v=xdiL-ADRTxQ&ab_channel=Numberphile
 Significant applications to Social Network Theory – i.e., the theory of networks such as Facebook, Twitter, and LinkedIn.
 
 https://en.wikipedia.org/wiki/Theorem_on_friends_and_strangers 
